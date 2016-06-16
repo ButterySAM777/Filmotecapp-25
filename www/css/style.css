@@ -1,0 +1,42 @@
+/* Empty. Add your own CSS if you like */
+
+body {
+	cursor: url('http://ionicframework.com/img/finger.png'), auto;
+}
+
+.star>.item-content {
+	background-color: #EEE8D6 !important;
+}
+
+.splash{
+	background: url(../img/fondo.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.logotipo{
+	width: 50%;
+	max-width: 200px;
+	margin: 0 auto;
+	margin-top: 24px;
+	text-align: center;
+}
+
+
+.bar-positive, .tabs-positive>.tabs {
+	background-color: #417D9A !important;
+	border-color: #417D9A;
+}
+
+
+.item-thumbnail-left img {
+	border-radius: 10px;
+}
+
+.item h3{
+	font-size: 1.2rem;
+	font-weight: bold;
+	color: #417D9A;
+}
